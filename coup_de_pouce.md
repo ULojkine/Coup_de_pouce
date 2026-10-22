@@ -7,7 +7,7 @@ Cette note explore une mesure de “coup de pouce universel”, au sens d'une r�
 # Motivation
 1/ Si on juge pertinent un coup de pouce au salaire minimum (le dernier remonte à 2012), alors cela pose la question de l'adaptation des autres salaires.
 Les récentes hausses nominales du SMIC (indexation sur l'inflation) ont conduit à un important tassement au bas de la distribution (phénomène de “smicardisation”), et cela a pu être mal vécu par des salariés dont la modeste avance qu'ils avaient sur le SMIC, liée à leur ancienneté par exemple, a été “mangée” par une indexation cantonnée au salaire minimum.
-Les mêmes expériences récentes montrent que ce phénomène n'est que temporaire : en quelques années la hausse du plancher se diffuse aux autres salaires et la proportion de personnes payées au SMIC diminue de nouveau. Mais il reste désirable d'éviter ce moment d'écrasement des rémunérations.
+Les mêmes expériences récentes montrent que ce phénomène n'est que temporaire : en quelques années la hausse du plancher se diffuse aux autres salaires et la proportion de personnes payées au SMIC diminue de nouveau. Comparée à un coup de pouce sur le seul Smic, la mesure proposée n'influence donc probablement pas ou peu la structure des rémunérations à long terme, mais elle anticipe l'ajustement et le fait peser d'emblée sur les employeurs.
 
 2/ Le choc inflationniste de 2022-2023, actuellement redoublé par une nouvelle hausse des prix du pétrole, a durablement entamé le pouvoir d'achat des salaires.
 C'est une des causes principales de la baisse du niveau de vie des ménages qui pose directement une question sociale et, indirectement, un risque macroéconomique si la demande effective est trop comprimée.
