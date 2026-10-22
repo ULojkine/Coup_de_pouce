@@ -24,8 +24,8 @@ $0.02 + 0.3821 [0.5(3/x - 1)]^{1.75}$.
 
 **Définition du salaire horaire** La notion de salaire horaire utilisée dans toute la note est le rapport de la rémunération totale brute versée au nombre d'heures. Cette notion diffère de l'assiette du SMIC (salaire de base hors treizième mois, intéressement et participation, autres primes, etc.) et de l'assiette des cotisations employeur. Il s'agit donc d'une approximation.
 
-# Effets mécaniques de la mesure
-La mesure est définie comme une hausse de tous les salaires bruts de l'équivalent de 5% du SMIC brut, soit 0,61 € par heure travaillée et 93€ par mois travaillé à temps plein.
+# Analyse
+La mesure est définie comme une hausse de tous les salaires bruts de l'équivalent de 5% du SMIC brut, soit 0,61 € par heure travaillée et 93€ par mois travaillé à temps plein, couplée à un gel nominal du barème des exonérations de cotisations patronales. Les effets analysés ici sont uniquement les effets mécaniques de premier tour de la mesure, en faisant donc abstraction des conséquences sur l'emploi, les prix, et les autres variables macroéconomiques. 
 
 ## Secteur privé ##
 Il s'agit d'une mesure progressive au sens où cette hausse absolue uniforme représente une hausse relative plus importante pour les salaires plus faibles : dans le secteur privé, cela représente une hausse de 5% en bas de la distribution, de 3% à la médiane (1,6 Smic), de 1,5% au neuvième décile (3,4 Smic).
@@ -44,6 +44,8 @@ L'effet total de la mesure sur les finances publiques consolidées (État et Sé
 * Cotisations patronales : + XX mds
 * Masse salariale publique : - XX mds
 * Total : XX mds
+
+La mesure telle que présentée ici est donc de nature à contribuer substantiellement au rétablissement des comptes publics. Si on souhaite accorder un poids plus grand encore à cet objectif relativement à l'augmentation du pouvoir d'achat des salariés, on pourrait également accompagner la mesure d'un gel total ou partiel du barème nominal de la prime d'activité et de l'impôt sur le revenu, ce qui augmenterait les recettes en déplaçant les salariés vers des zones du barème où le montant de la prime d'activité est plus faible et où le taux de l'impôt sur le revenu est plus important.
 
 # Autres éléments de discussion
 **Effets macro** en particulier inflation, compétitivité
