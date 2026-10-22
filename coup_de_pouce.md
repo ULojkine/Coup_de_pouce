@@ -32,7 +32,7 @@ Il s'agit d'une mesure progressive au sens où cette hausse absolue uniforme rep
 
 La masse salariale brute du privé augmenterait de 2,5%, soit XX mds.
 
-**Couplage avec un gel du barème des exonérations** Supposons qu'on couple la mesure avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution~: le taux de cotisation sur 1 Smic passerait de 0% à 5%.
+Supposons qu'on couple la mesure avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution~: le taux de cotisation sur 1 Smic passerait de 0% à 5%.
 
 La masse salariale superbrute du privé augmenterait donc plus que la masse salariale brute, de 3,1%, soit YY mds dont ZZ mds de cotisations patronales supplémentaires.
 
@@ -45,7 +45,7 @@ L'effet total de la mesure sur les finances publiques consolidées (État et Sé
 * Masse salariale publique : - XX mds
 * Total : XX mds
 
-La mesure telle que présentée ici est donc de nature à contribuer substantiellement au rétablissement des comptes publics. Si on souhaite accorder un poids plus grand encore à cet objectif relativement à l'augmentation du pouvoir d'achat des salariés, on pourrait également accompagner la mesure d'un gel total ou partiel du barème nominal de la prime d'activité et de l'impôt sur le revenu, ce qui augmenterait les recettes en déplaçant les salariés vers des zones du barème où le montant de la prime d'activité est plus faible et où le taux de l'impôt sur le revenu est plus important.
+La mesure telle que présentée ici est donc de nature à contribuer substantiellement au rétablissement des comptes publics. Si on souhaite accorder un poids plus grand encore à cet objectif relativement à l'augmentation du pouvoir d'achat des salariés, on pourrait également accompagner la mesure d'un gel total ou partiel du barème nominal de la prime d'activité et de l'impôt sur le revenu, ce qui augmenterait les recettes en déplaçant les revenus vers des zones du barème où le montant de la prime d'activité est plus faible et où le taux de l'impôt sur le revenu est plus important.
 
 # Autres éléments de discussion
 **Effets macro** en particulier inflation, compétitivité
