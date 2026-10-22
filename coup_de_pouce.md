@@ -35,11 +35,11 @@ Il s'agit d'une mesure progressive au sens où cette hausse absolue uniforme rep
 
 
 ## Secteur privé ##
-La masse salariale brute du privé augmenterait de 2,7%, soit XX mds.
+La masse salariale brute du privé augmenterait de 2,7%, soit 22,2 mds.
 
-Supposons qu'on couple la mesure avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution~: le taux de cotisation sur 1 Smic passerait de 0,0% à 5,8%.
+On suppose que la hausse des salaires bruts est couplée avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution~: le taux de cotisation sur 1 Smic passerait de 0,0% à 5,8%.
 
-La masse salariale superbrute du privé augmenterait donc plus que la masse salariale brute, de 3,3%, soit YY mds dont ZZ mds de cotisations patronales supplémentaires.
+La masse salariale superbrute du privé augmenterait donc plus que la masse salariale brute, de 3,3%, soit 39,7 mds dont 17,5 mds de cotisations patronales supplémentaires.
 
 ## Secteur public ##
 La hausse de 100 € par mois, sur 5,3 millions d'équivalents temps plein dans la fonction publique (cf. l'estimation ci-dessus), correspond à une hausse de 6,4 mds de la masse salariale brute de la fonction publique. En retenant un taux de cotisation salarié de 19% en moyenne dans la fonction publique [4], cela représente une hausse de cotisations de 1,2 md.
@@ -49,11 +49,11 @@ L'effet total de la mesure sur les finances publiques consolidées (État et Sé
 
 | Poste | Somme |
 | --- | --- |
-| Cotisations salariés du secteur privé | + XX mds |
-| Cotisations patronales | + XX mds |
+| Cotisations salariés du secteur privé | + 4,9 mds |
+| Cotisations patronales | + 17,5 mds |
 | Masse salariale publique | - 6,4 mds |
 | Cotisations salariés des agents publics | + 1,2 md |
-| Total | + XX mds |
+| Total | + 17,2 mds |
 
 La mesure telle que présentée ici est donc de nature à contribuer substantiellement au rétablissement des comptes publics. Si on souhaite accorder un poids plus grand encore à cet objectif relativement à l'augmentation du pouvoir d'achat des salariés, on pourrait également accompagner la mesure d'un gel total ou partiel du barème nominal de la prime d'activité, ce qui augmenterait les recettes en déplaçant les revenus vers des zones du barème où le montant de la prime est plus faible. Les recettes de l'impôt sur le revenu augmenteraient pour leur part mécaniquement avec la hausse du revenu des ménages, mais nous n'estimons pas ici cet effet.
 
