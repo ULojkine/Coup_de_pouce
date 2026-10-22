@@ -40,6 +40,7 @@ La masse salariale superbrute du privé augmenterait donc plus que la masse sala
 
 # Autres éléments de discussion
 **Effets macro** en particulier inflation, compétitivité
+
 **Articulation avec la négociation collective**
 
 # Notes
