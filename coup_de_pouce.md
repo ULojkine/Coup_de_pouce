@@ -19,6 +19,8 @@ Comme la suite de la note l'explique, une hausse généralisée des salaires peu
 # Données et hypothèses
 **Distribution des salaires** Pour la distribution des salaires bruts dans le secteur privé, on utilise une note récente de la DARES [2], fondée sur le dernier millésime disponible (2024) de la Base Tous Salariés.
 
+**Masses salariales** Dans les Comptes nationaux 2025, le tableau 6.204 une masse salariale superbrute totale de 1536,2 mds, dont 434,0 mds pour les Services principalement non marchands. On considère donc que la masse salariale superbrute du secteur privé est de 1202,2. Le tableau 6.205 indique une masse salariale brute totale de 1129,3 mds, dont 298,4 pour les Services principalement non marchands. On considère donc que la masse salariale brute du secteur privé est de 830,9 mds.
+
 **Cotisations et exonérations** On retient un taux de cotisation salarié moyen de 22% dans le privé et de 19% dans le public, un taux de cotisation patronale de 41% avant exonérations. Concernant les exonérations, on reprend le barème en vigueur. Si $x$ est le salaire brut exprimé en multiples du SMIC, alors le taux d'exonérations qui s'applique est :
 $0.02 + 0.3821 [0.5(3/x - 1)]^{1.75}$.
 
@@ -44,6 +46,9 @@ La hausse de 100 € par mois, sur 5,3 millions d'équivalents temps plein dans 
 
 ## Finances publiques ##
 L'effet total de la mesure sur les finances publiques consolidées (État et Sécurité sociale) se décomposerait alors en :
+
+| Poste | Somme |
+| --- | --- |
 | Cotisations salariés du secteur privé | + XX mds |
 | Cotisations patronales | + XX mds |
 | Masse salariale publique | - 6,4 mds |
