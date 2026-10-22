@@ -18,8 +18,10 @@ Comme la suite de la note l'explique, une hausse généralisée des salaires peu
 
 # Données et hypothèses
 **Distribution des salaires** Pour la distribution des salaires bruts dans le secteur privé, on utilise une note récente de la DARES [2], fondée sur le dernier millésime disponible (2024) de la Base Tous Salariés.
+
 **Barème d'exonérations** On reprend le barème des exonérations en vigueur. Si $x$ est le salaire brut exprimé en multiples du SMIC, alors le taux d'exonérations qui s'applique est :
 $0.02 + 0.3821 [0.5(3/x - 1)]^{1.75}$.
+
 **Définition du salaire horaire** La notion de salaire horaire utilisée dans toute la note est le rapport de la rémunération totale brute versée au nombre d'heures. Cette notion diffère de l'assiette du SMIC (salaire de base hors treizième mois, intéressement et participation, autres primes, etc.) et de l'assiette des cotisations employeur. Il s'agit donc d'une approximation.
 
 # Effets mécaniques de la mesure
