@@ -2,7 +2,7 @@
 Ulysse Lojkine, octobre 2026
 
 # Principe
-Cette note explore une mesure de “coup de pouce universel”, au sens d'une répercussion uniforme sur tous les salaires bruts du montant absolu d'une hausse du SMIC de 5% (93€ par mois en équivalent temps plein, 61 centimes par heure travaillée).
+Cette note explore une mesure de “coup de pouce universel”, au sens d'une répercussion uniforme sur tous les salaires bruts de 100 € par mois en équivalent temps plein, soit 0,67 € par heure travaillée.
 
 # Motivation
 1/ Si on juge pertinent un coup de pouce au salaire minimum (le dernier remonte à 2012), alors cela pose la question de l'adaptation des autres salaires.
@@ -19,33 +19,38 @@ Comme la suite de la note l'explique, une hausse généralisée des salaires peu
 # Données et hypothèses
 **Distribution des salaires** Pour la distribution des salaires bruts dans le secteur privé, on utilise une note récente de la DARES [2], fondée sur le dernier millésime disponible (2024) de la Base Tous Salariés.
 
-**Barème d'exonérations** On reprend le barème des exonérations en vigueur. Si $x$ est le salaire brut exprimé en multiples du SMIC, alors le taux d'exonérations qui s'applique est :
+**Cotisations et exonérations** On retient un taux de cotisation salarié moyen de 22% dans le privé et de 19% dans le public, un taux de cotisation patronale de 41% avant exonérations. Concernant les exonérations, on reprend le barème en vigueur. Si $x$ est le salaire brut exprimé en multiples du SMIC, alors le taux d'exonérations qui s'applique est :
 $0.02 + 0.3821 [0.5(3/x - 1)]^{1.75}$.
+
+**Fonction publique** Les effectifs de la fonction publique en 2024 sont donnés par une publication de l'Insee de février 2026[3]. Elle donne des effectifs totaux de 5,8 millions, dont 16% à temps partiel. On considère à titre d'approximation que cela correspond à 5,3 millions d'équivalents temps plein.
 
 **Définition du salaire horaire** La notion de salaire horaire utilisée dans toute la note est le rapport de la rémunération totale brute versée au nombre d'heures. Cette notion diffère de l'assiette du SMIC (salaire de base hors treizième mois, intéressement et participation, autres primes, etc.) et de l'assiette des cotisations employeur. Il s'agit donc d'une approximation.
 
 # Analyse
 La mesure est définie comme une hausse de tous les salaires bruts de l'équivalent de 5% du SMIC brut, soit 0,61 € par heure travaillée et 93€ par mois travaillé à temps plein, couplée à un gel nominal du barème des exonérations de cotisations patronales. Les effets analysés ici sont uniquement les effets mécaniques de premier tour de la mesure, en faisant donc abstraction des conséquences sur l'emploi, les prix, et les autres variables macroéconomiques. 
 
+Il s'agit d'une mesure progressive au sens où cette hausse absolue uniforme représente une hausse relative plus importante pour les salaires plus faibles : dans le secteur privé, cela représente une hausse de 5,4% au niveau du Smic, de 3% à la médiane (1,6 Smic), de 1,5% au neuvième décile (3,4 Smic).
+
+
 ## Secteur privé ##
-Il s'agit d'une mesure progressive au sens où cette hausse absolue uniforme représente une hausse relative plus importante pour les salaires plus faibles : dans le secteur privé, cela représente une hausse de 5% en bas de la distribution, de 3% à la médiane (1,6 Smic), de 1,5% au neuvième décile (3,4 Smic).
+La masse salariale brute du privé augmenterait de 2,7%, soit XX mds.
 
-La masse salariale brute du privé augmenterait de 2,5%, soit XX mds.
+Supposons qu'on couple la mesure avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution~: le taux de cotisation sur 1 Smic passerait de 0,0% à 5,8%.
 
-Supposons qu'on couple la mesure avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution~: le taux de cotisation sur 1 Smic passerait de 0% à 5%.
-
-La masse salariale superbrute du privé augmenterait donc plus que la masse salariale brute, de 3,1%, soit YY mds dont ZZ mds de cotisations patronales supplémentaires.
+La masse salariale superbrute du privé augmenterait donc plus que la masse salariale brute, de 3,3%, soit YY mds dont ZZ mds de cotisations patronales supplémentaires.
 
 ## Secteur public ##
+La hausse de 100 € par mois, sur 5,3 millions d'équivalents temps plein dans la fonction publique (cf. l'estimation ci-dessus), correspond à une hausse de 6,4 mds de la masse salariale brute de la fonction publique. En retenant un taux de cotisation salarié de 19% en moyenne dans la fonction publique [4], cela représente une hausse de cotisations de 1,2 md.
 
 ## Finances publiques ##
 L'effet total de la mesure sur les finances publiques consolidées (État et Sécurité sociale) se décomposerait alors en :
-* Cotisations salariés : + XX mds
-* Cotisations patronales : + XX mds
-* Masse salariale publique : - XX mds
-* Total : XX mds
+| Cotisations salariés du secteur privé | + XX mds |
+| Cotisations patronales | + XX mds |
+| Masse salariale publique | - 6,4 mds |
+| Cotisations salariés des agents publics | + 1,2 md |
+| Total | + XX mds |
 
-La mesure telle que présentée ici est donc de nature à contribuer substantiellement au rétablissement des comptes publics. Si on souhaite accorder un poids plus grand encore à cet objectif relativement à l'augmentation du pouvoir d'achat des salariés, on pourrait également accompagner la mesure d'un gel total ou partiel du barème nominal de la prime d'activité et de l'impôt sur le revenu, ce qui augmenterait les recettes en déplaçant les revenus vers des zones du barème où le montant de la prime d'activité est plus faible et où le taux de l'impôt sur le revenu est plus important.
+La mesure telle que présentée ici est donc de nature à contribuer substantiellement au rétablissement des comptes publics. Si on souhaite accorder un poids plus grand encore à cet objectif relativement à l'augmentation du pouvoir d'achat des salariés, on pourrait également accompagner la mesure d'un gel total ou partiel du barème nominal de la prime d'activité, ce qui augmenterait les recettes en déplaçant les revenus vers des zones du barème où le montant de la prime est plus faible. Les recettes de l'impôt sur le revenu augmenteraient pour leur part mécaniquement avec la hausse du revenu des ménages, mais nous n'estimons pas ici cet effet.
 
 # Autres éléments de discussion
 **Effets macro** en particulier inflation, compétitivité
@@ -56,3 +61,5 @@ La mesure telle que présentée ici est donc de nature à contribuer substantiel
 [1] Cf. Clément Carbonnier, « La hausse du SMIC à 1600 € net » - https://blogs.alternatives-economiques.fr/carbonnier/2024/06/18/la-hausse-du-smic-a-1600-eu-net
 
 [2] https://dares.travail-emploi.gouv.fr/publication/combien-de-salaries-sont-remuneres-au-smic
+
+[3] Léna Esbelin, Téo Moreau, Sarah Touzé, « L’emploi dans la fonction publique en 2024 », Insee Première, fév. 2026 - https://www.insee.fr/fr/statistiques/8732435
