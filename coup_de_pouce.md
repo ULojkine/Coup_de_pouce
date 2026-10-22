@@ -38,11 +38,19 @@ La masse salariale superbrute du privé augmenterait donc plus que la masse sala
 
 ## Secteur public ##
 
+## Finances publiques ##
+L'effet total de la mesure sur les finances publiques consolidées (État et Sécurité sociale) se décomposerait alors en :
+* Cotisations salariés : + XX mds
+* Cotisations patronales : + XX mds
+* Masse salariale publique : - XX mds
+* Total : XX mds
+
 # Autres éléments de discussion
 **Effets macro** en particulier inflation, compétitivité
 
-**Articulation avec la négociation collective**
+**Articulation avec la négociation collective**  Si le SMIC peut être modifié par décret, les autres salaires sont en principe négociés entre syndicats et employeurs au niveau de la branche et de l'entreprise. Si les juristes confirmaient l'impossibilité d'agir sur les salaires hors SMIC par décret ou par la loi, une option serait peut-être d'organiser une négociation entre syndicats de salariés et d'employeurs au niveau interprofessionnel qui ne porte pas seulement sur les minima de branche mais aussi directement sur les rémunérations versées. Une telle négociation pourrait être encadrée par des prélèvements obligatoires supplémentaires sur les employeurs qui refuseraient la hausse des salaires indiquée, afin de s'assurer qu'un tel refus ne soit pas financièrement avantageux.
 
 # Notes
 [1] Cf. Clément Carbonnier, « La hausse du SMIC à 1600 € net » - https://blogs.alternatives-economiques.fr/carbonnier/2024/06/18/la-hausse-du-smic-a-1600-eu-net
+
 [2] https://dares.travail-emploi.gouv.fr/publication/combien-de-salaries-sont-remuneres-au-smic
