@@ -37,7 +37,7 @@ Il s'agit d'une mesure progressive au sens où cette hausse absolue uniforme rep
 ## Secteur privé ##
 La masse salariale brute du privé augmenterait de 2,7%, soit 22,2 mds.
 
-On suppose que la hausse des salaires bruts est couplée avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution~: le taux de cotisation sur 1 Smic passerait de 0,0% à 5,8%.
+On suppose que la hausse des salaires bruts est couplée avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution : le taux de cotisation sur 1 Smic passerait de 0,0% à 5,8%.
 
 La masse salariale superbrute du privé augmenterait de 3,3%, soit 36,4 mds dont 14,2 mds de cotisations patronales supplémentaires.
 
