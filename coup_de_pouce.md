@@ -29,7 +29,7 @@ $0.02 + 0.3821 [0.5(3/x - 1)]^{1.75}$.
 **Définition du salaire horaire** La notion de salaire horaire utilisée dans toute la note est le rapport de la rémunération totale brute versée au nombre d'heures. Cette notion diffère de l'assiette du SMIC (salaire de base hors treizième mois, intéressement et participation, autres primes, etc.) et de l'assiette des cotisations employeur. Il s'agit donc d'une approximation.
 
 # Analyse
-La mesure est définie comme une hausse de tous les salaires bruts de l'équivalent de 5% du SMIC brut, soit 0,61 € par heure travaillée et 93€ par mois travaillé à temps plein, couplée à un gel nominal du barème des exonérations de cotisations patronales. Les effets analysés ici sont uniquement les effets mécaniques de premier tour de la mesure, en faisant donc abstraction des conséquences sur l'emploi, les prix, et les autres variables macroéconomiques. 
+La mesure est définie comme une hausse de tous les salaires bruts de l'équivalent de 5,4% du SMIC brut, soit 0,61 € par heure travaillée et 93€ par mois travaillé à temps plein, couplée à un gel nominal du barème des exonérations de cotisations patronales. Les effets analysés ici sont uniquement les effets mécaniques de premier tour de la mesure, en faisant donc abstraction des conséquences sur l'emploi, les prix, et les autres variables macroéconomiques. 
 
 Il s'agit d'une mesure progressive au sens où cette hausse absolue uniforme représente une hausse relative plus importante pour les salaires plus faibles : dans le secteur privé, cela représente une hausse de 5,4% au niveau du Smic, de 3% à la médiane (1,6 Smic), de 1,5% au neuvième décile (3,4 Smic).
 
