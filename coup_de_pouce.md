@@ -35,11 +35,16 @@ Il s'agit d'une mesure progressive au sens où cette hausse absolue uniforme rep
 
 
 ## Secteur privé ##
-La masse salariale brute du privé augmenterait de 2,7%, soit 22,2 mds.
+La masse salariale brute du privé augmenterait de 2,7%. La masse salariale superbrute du privé augmenterait de 3,3%. Ce second chiffre est plus élevé que le premier car on suppose que la hausse des salaires bruts est couplée avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution : le taux de cotisation sur 1 Smic passerait de 0,0% à 5,8%.
 
-On suppose que la hausse des salaires bruts est couplée avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution : le taux de cotisation sur 1 Smic passerait de 0,0% à 5,8%.
+La hausse de la masse salariale superbrute du secteur privé se décomposerait alors en :
 
-La masse salariale superbrute du privé augmenterait de 3,3%, soit 36,4 mds dont 14,2 mds de cotisations patronales supplémentaires.
+| | Hausse absolue | Hausse relative |
+| --- | --- | --- |
+| Cotisations patronales | 14,2 mds | +5,2% |
+| Cotisations salariés | 4,9 mds | +2,7% |
+| Salaire net | 17,3 mds | +2,7% |
+| Total | 36,4 mds | +3,3% |
 
 ## Secteur public ##
 La hausse de 100 € par mois, sur 5,3 millions d'équivalents temps plein dans la fonction publique (cf. l'estimation ci-dessus), correspond à une hausse de 6,4 mds de la masse salariale brute de la fonction publique. En retenant un taux de cotisation salarié de 19% en moyenne dans la fonction publique, cela représente une hausse de cotisations de 1,2 md.
