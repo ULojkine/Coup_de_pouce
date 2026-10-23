@@ -65,7 +65,7 @@ La mesure telle que présentée ici est donc de nature à contribuer substantiel
 # Notes
 [1] Cf. Clément Carbonnier, « La hausse du SMIC à 1600 € net » - https://blogs.alternatives-economiques.fr/carbonnier/2024/06/18/la-hausse-du-smic-a-1600-eu-net
 
-[2] Claire de Rosamel, Suzanne Scott, Ndeye Penda Sokhna, « Les salaires dans le secteur privé en 2025 », Insee Première, oct. 2026 - https://www.insee.fr/fr/statistiques/9087193
+[2] Claire de Rosamel, Suzanne Scott, Ndeye Penda Sokhna, « Les salaires dans le secteur privé en 2025 », Insee Première, oct. 2026 - https://www.insee.fr/fr/statistiques/9087193 . Pour une étude détaillée de l'évolution des salaires dans le secteur privé et la fonction publique d'État entre 2008 et 2023 selon l'indicateur et l'indice des prix retenu, je renvoie à l'étude de François Geerolf, « Mesurer l'évolution des salaires », octobre 2026 - https://fgeerolf.com/mesurer-l-evolution-des-salaires.pdf
 
 [3] Paul-Antoine Beretti, Élodie Pereira, « La consommation des ménages en 2025 », Insee Première, juin 2026 - https://www.insee.fr/fr/statistiques/9006503
 
