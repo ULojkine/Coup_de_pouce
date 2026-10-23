@@ -2,7 +2,7 @@
 Ulysse Lojkine, octobre 2026
 
 # Principe
-Cette note explore une mesure de “coup de pouce universel”, au sens d'une hausse uniforme sur tous les salaires bruts de 100 € par mois en équivalent temps plein, soit 0,67 € par heure travaillée.
+Cette note explore une mesure de “coup de pouce universel”, au sens d'une hausse uniforme sur tous les salaires bruts de 100 € par mois en équivalent temps plein, soit 0,67 € par heure travaillée, accompagnée d'un gel du barème des exonérations de cotisations patronales.
 
 # Motivation
 1/ Si on juge pertinent un coup de pouce au salaire minimum [1], alors cela pose la question de l'adaptation des autres salaires.
