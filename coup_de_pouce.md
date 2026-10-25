@@ -1,8 +1,8 @@
 # Coup de pouce universel
 Ulysse Lojkine, octobre 2026
 
-# Principe
-Cette note explore une mesure de “coup de pouce universel”, au sens d'une hausse uniforme sur tous les salaires bruts de 100 € par mois en équivalent temps plein, soit 0,67 € par heure travaillée, accompagnée d'un gel du barème des exonérations de cotisations patronales.
+# Introduction
+Dans un contexte de faiblesse des salaires réels et de comptes publics dégradés, cette note explore une mesure de “coup de pouce universel”, au sens d'une hausse uniforme sur tous les salaires bruts de 100 € par mois en équivalent temps plein, soit 0,67 € par heure travaillée, accompagnée d'un gel du barème des exonérations de cotisations patronales. Au prix d'une hausse de 3,3% des coûts salariaux du secteur privé, cette mesure permet une hausse du revenu des salariés, proportionnellement plus importante pour les salaires les plus bas, tout en évitant de répéter la « smicardisation » parfois redoutée ; elle génère également des recettes importantes en cotisations sociales salariés et employeurs, y compris après déduction du coût de la mesure dans le secteur public.
 
 # Motivation
 1/ Si on juge pertinent un coup de pouce au salaire minimum [1], alors cela pose la question de l'adaptation des autres salaires.
@@ -17,13 +17,13 @@ Ce contexte invite à réfléchir à une mesure de hausse des salaires diffusée
 Comme la suite de la note l'explique, une hausse généralisée des salaires peut être couplée avec un gel nominal du barème des exonérations : ainsi, outre la hausse proportionnelle de cotisations salariales, la mesure engendrerait une hausse de cotisations patronales et pourrait contribuer au rétablissement des finances publiques.
 
 # Analyse
-La mesure est définie comme une hausse de tous les salaires bruts de l'équivalent de 5,4% du SMIC brut, soit 0,61 € par heure travaillée et 93€ par mois travaillé à temps plein, couplée à un gel nominal du barème des exonérations de cotisations patronales. Les effets analysés ici sont uniquement les effets mécaniques de premier tour de la mesure, en appliquant la mesure à la distribution existante des salaires, faisant donc abstraction des réactions des différents acteurs économiques ; les données et hypothèses utilisées sont détaillées à la fin de la note.
+La mesure est définie comme une hausse de tous les salaires bruts de l'équivalent de 5,4% du SMIC brut, soit 0,61 € par heure travaillée et 93€ par mois travaillé à temps plein, couplée à un gel nominal du barème des exonérations de cotisations patronales. Les effets analysés ici sont uniquement les effets mécaniques de premier tour de la mesure, en appliquant la hausse envisagée à la distribution existante des salaires, faisant donc abstraction des réactions des différents acteurs économiques ; les données et hypothèses utilisées sont détaillées à la fin de la note.
 
 Il s'agit d'une mesure progressive au sens où cette hausse absolue uniforme représente une hausse relative plus importante pour les salaires plus faibles : dans le secteur privé, cela représente une hausse de 5,4% au niveau du Smic, de 3% à la médiane (1,6 Smic), de 1,5% au neuvième décile (3,4 Smic).
 
 
 ## Secteur privé ##
-Dans le secteur privé, la masse salariale brute augmenterait de 2,7% (de même pour la masse salariale nette totale et le salaire net moyen), et la masse salariale superbrute de 3,3%. Ce second chiffre est plus élevé que le premier car on suppose que la hausse des salaires bruts est couplée avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution : le taux de cotisation sur 1 Smic passerait de 0,0% à 5,8%.
+Dans le secteur privé, la masse salariale brute augmenterait de 2,7% (de même donc pour la masse salariale nette totale et le salaire net moyen), et la masse salariale superbrute de 3,3%. Ce second chiffre est plus élevé que le premier car on suppose que la hausse des salaires bruts est couplée avec un gel du barème des exonérations exposé ci-dessus, c'est-à-dire que celui-ci reste exprimé en “ancien Smic” après la mesure. Dans ce cas la distribution des salaires se déplacerait mécaniquement dans une zone du barème où les exonérations sont plus faibles ce qui engendrerait une hausse du taux de cotisation patronal, en particulier tout en bas de la distribution : le taux de cotisation sur 1 Smic passerait de 0,0% à 5,8%.
 
 La hausse de la masse salariale superbrute du secteur privé se décomposerait alors en :
 
@@ -67,7 +67,7 @@ $0.02 + 0.3821 [0.5(3/x - 1)]^{1.75}$.
 
 **Fonction publique** Les effectifs de la fonction publique en 2024 étaient de 5,8 millions, dont 16% à temps partiel[7]. On considère à titre d'approximation que cela correspond à 5,3 millions d'équivalents temps plein.
 
-**Définition du salaire horaire** La notion de salaire horaire utilisée dans toute la note est le rapport de la rémunération totale brute versée au nombre d'heures. Cette notion diffère de l'assiette du SMIC (salaire de base hors treizième mois, intéressement et participation, autres primes, etc.) et de l'assiette des cotisations employeur. Il s'agit donc d'une approximation.
+**Définition du salaire horaire** La notion de salaire horaire utilisée dans toute la note est le rapport de la rémunération totale brute versée au nombre d'heures. Cette notion diffère de l'assiette du SMIC (salaire de base hors treizième mois, prime de fin de CDD, autres primes, etc., cf note [1]) et de l'assiette des cotisations employeur. Il s'agit donc d'une approximation.
 
 
 # Notes
