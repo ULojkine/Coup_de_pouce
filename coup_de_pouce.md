@@ -1,8 +1,7 @@
 # Coup de pouce universel
-Ulysse Lojkine, octobre 2026
+Ulysse Lojkine, 28 octobre 2026
 
-# Introduction
-Dans un contexte de faiblesse des salaires réels et de comptes publics dégradés, cette note explore une mesure de “coup de pouce universel”, au sens d'une hausse uniforme sur tous les salaires bruts de 100 € par mois en équivalent temps plein, soit 0,67 € par heure travaillée, accompagnée d'un gel du barème des exonérations de cotisations patronales. Au prix d'une hausse de 3,3% des coûts salariaux du secteur privé, cette mesure permet une hausse du revenu des salariés, proportionnellement plus importante pour les salaires les plus bas, tout en évitant de répéter la « smicardisation » parfois redoutée ; elle génère également des recettes importantes en cotisations sociales salariés et employeurs, y compris après déduction du coût de la mesure dans le secteur public.
+Cette note explore une mesure de “coup de pouce universel”, au sens d'une hausse uniforme sur tous les salaires bruts de 100 € par mois en équivalent temps plein, soit 0,67 € par heure travaillée, accompagnée d'un gel du barème des exonérations de cotisations patronales. Au prix d'une hausse de 3,3% des coûts salariaux du secteur privé, cette mesure permet une hausse du revenu des salariés, proportionnellement plus importante pour les salaires les plus bas, tout en évitant de répéter la « smicardisation » parfois redoutée ; elle génère également des recettes importantes en cotisations sociales salariés et employeurs, y compris après déduction du coût de la mesure dans le secteur public.
 
 # Analyse
 La mesure est définie comme une hausse de tous les salaires bruts de l'équivalent de 5,4% du SMIC brut, soit 0,67 € par heure travaillée et 100€ par mois travaillé à temps plein, couplée à un gel nominal du barème des exonérations de cotisations patronales. Les effets analysés ici sont uniquement les effets mécaniques de premier tour de la mesure, en appliquant la hausse envisagée à la distribution existante des salaires, faisant donc abstraction des réactions des différents acteurs économiques ; les données et hypothèses utilisées sont détaillées à la fin de la note.
