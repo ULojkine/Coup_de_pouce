@@ -42,14 +42,14 @@ La mesure telle que présentée ici est donc de nature à contribuer substantiel
 La contribution de collègues macroéconomistes serait utile pour préciser l'effet possible de la mesure sur les prix, sur l'emploi et sur d'autres variables macroéconomiques. À titre indicatif, selon le modèle FR-BDF [1], un choc de 36 mds sur les coûts salariaux du secteur privé qui passerait entièrement par une hausse de cotisations patronales engendrerait une hausse de l'IPC de 0,44% après un an.
 
 # Données et hypothèses
-**Distribution des salaires** Pour la distribution des salaires bruts dans le secteur privé, on utilise une note récente de la DARES [6], fondée sur le dernier millésime disponible (2024) de la Base Tous Salariés.
+**Distribution des salaires** Pour la distribution des salaires bruts dans le secteur privé, on utilise une note récente de la DARES [2], fondée sur le dernier millésime disponible (2024) de la Base Tous Salariés.
 
 **Masses salariales** Dans les Comptes nationaux 2025, le tableau 6.204 indique une masse salariale superbrute totale de 1536,2 mds, dont 434,0 mds pour les Services principalement non marchands. On considère donc que la masse salariale superbrute du secteur privé est de 1102,2. Le tableau 6.205 indique une masse salariale brute totale de 1129,3 mds, dont 298,4 pour les Services principalement non marchands. On considère donc que la masse salariale brute du secteur privé est de 830,9 mds.
 
 **Cotisations et exonérations** On retient un taux de cotisation salarié moyen de 22% dans le privé et de 19% dans le public, un taux de cotisation patronale de 41% avant exonérations. Concernant les exonérations, on reprend le barème en vigueur. Si $x$ est le salaire brut exprimé en multiples du SMIC, alors le taux d'exonérations qui s'applique est :
 $0.02 + 0.3821 [0.5(3/x - 1)]^{1.75}$.
 
-**Fonction publique** Les effectifs de la fonction publique en 2024 étaient de 5,8 millions, dont 16% à temps partiel[7]. On considère à titre d'approximation que cela correspond à 5,3 millions d'équivalents temps plein.
+**Fonction publique** Les effectifs de la fonction publique en 2024 étaient de 5,8 millions, dont 16% à temps partiel[3]. On considère à titre d'approximation que cela correspond à 5,3 millions d'équivalents temps plein.
 
 **Définition du salaire horaire** La notion de salaire horaire utilisée dans toute la note est le rapport de la rémunération totale brute versée au nombre d'heures. Cette notion diffère de l'assiette du SMIC (salaire de base hors treizième mois, prime de fin de CDD, autres primes, etc., cf note [2]) et de l'assiette des cotisations employeur. Il s'agit donc d'une approximation.
 
@@ -59,4 +59,4 @@ $0.02 + 0.3821 [0.5(3/x - 1)]^{1.75}$.
 
 [2] https://dares.travail-emploi.gouv.fr/publication/combien-de-salaries-sont-remuneres-au-smic
 
-[7] Léna Esbelin, Téo Moreau, Sarah Touzé, « L’emploi dans la fonction publique en 2024 », Insee Première, fév. 2026 - https://www.insee.fr/fr/statistiques/8732435
+[3] Léna Esbelin, Téo Moreau, Sarah Touzé, « L’emploi dans la fonction publique en 2024 », Insee Première, fév. 2026 - https://www.insee.fr/fr/statistiques/8732435
